@@ -141,14 +141,14 @@ Nombre:JAVIER NOE CRUZ ESPAÑA
 
 * [ ] a) Un proceso de revisión y evaluación de los controles de seguridad.
 * [ ] b) Un proceso de copia de seguridad y almacenamiento de la información.
-* [ ] c) Un proceso de evaluación de la seguridad que simula un ataque real.
+* [*] c) Un proceso de evaluación de la seguridad que simula un ataque real.
 * [ ] d) Un proceso de supervisión y seguimiento de la seguridad de la información.
 
 21. ¿Qué es una firma digital?
 
 * [ ] a) Un valor numérico generado a partir de los datos de un archivo.
 * [ ] b) Una técnica de seguridad que utiliza algoritmos criptográficos para verificar la autenticidad e integridad de un archivo.
-* [C] c) Un resumen único generado a partir de los datos de un archivo.
+* [*] c) Un resumen único generado a partir de los datos de un archivo.
 * [ ] d) Un proceso de seguimiento y gestión de las versiones de los archivos.
 
 22. ¿Cuál de las siguientes leyes NO está relacionada con la seguridad de la información?
